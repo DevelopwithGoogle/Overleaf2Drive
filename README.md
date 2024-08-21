@@ -1,5 +1,5 @@
 # Overleaf2Drive
-This repo is the Entry-Point for the browser extension Overleaf2Drive. The extension connect the Google Drive and Email service with Overleaf so that the academicians can upload or send mail without hampering their flow of writing in Overleaf Editor.
+The extension connects the Google Drive and Email service with Overleaf so that the academicians can upload or send mail without hampering their flow of writing in Overleaf Editor.
 
 ## Quick Start
 
