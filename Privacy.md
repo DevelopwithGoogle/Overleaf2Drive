@@ -5,7 +5,7 @@
 Overleaf2Drive is a Chrome extension designed to facilitate the transfer of generated PDF document from Overleaf to Google Drive and emailing using Gmail service. This Privacy Policy outlines how we collect, use, and protect your information.
 
 ## Information it collects
-Overleaf2Drive collects only name and email address from users to keep a track of user. Because this is plugged in with google service which is chargeable after certain use, this extension primarilly collects this data to keep track of not being used for non-academic usage or productivity. The extension operates solely within the confines of your Overleaf and Google Drive accounts, without accessing or storing any data beyond what is necessary for the core functionality of the extension.
+Overleaf2Drive collects only name and email address from users to keep a track of user. Because this is plugged in with google service which is chargeable after certain use, this extension primarily collects this data to keep track of not being used for non-academic usage or productivity. The extension operates solely within the confines of your Overleaf and Google Drive accounts, without accessing or storing any data beyond what is necessary for the core functionality of the extension.
 
 ## Data Usage
 The only information processed by Overleaf2Drive is usage data to monitor and enforce usage limits, if applicable. This data is used exclusively for internal purposes and is not shared with third parties.
